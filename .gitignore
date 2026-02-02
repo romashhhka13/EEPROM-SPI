@@ -39,3 +39,14 @@
 
 # debug information files
 *.dwo
+
+# MacOS
+.DS_Store
+
+# Папки сборки
+build/
+
+# Другое
+Doxyfile
+*.drawio
+
