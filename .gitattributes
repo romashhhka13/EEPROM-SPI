@@ -1,0 +1,7 @@
+html/** linguist-vendored
+html/**/*.js linguist-vendored
+html/**/*.css linguist-vendored
+
+*.cpp linguist-language=C++
+*.h linguist-language=C++
+*.hpp linguist-language=C++
